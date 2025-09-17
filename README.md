@@ -166,8 +166,7 @@ Special thanks to:
 **Ayush Singh**
 
 - 🔗 GitHub: [@ayusingh-54](https://github.com/ayusingh-54)
-- 📧 Email: ayushsingh@gmail.com
-
+- 📧 Email: ayusingh693@gmail.com
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
